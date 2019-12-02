@@ -1,6 +1,6 @@
 jsoncompare is a simple Python utility for comparing two JSON objects
 
-USAGE
+USAGE (python version >= 3.6)
 
 python jsoncompare.py <item1> <item2>
 
